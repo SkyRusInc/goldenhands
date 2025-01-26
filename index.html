@@ -138,8 +138,8 @@
       <div class="contact-info">
      <p id="contact-text" class="contact-text">Our dedicated team is available to assist you daily from 7 am to 7 pm.</p>
         <ul>
-     <li id="phonecontact" class="contact-text-item">Phone:  +1 (347) 562-39-25</li>
-     <li id="emailcontact" class="contact-text-item"> Email:  <a href="mailto:maru-catherina@mail.com">skyrus.inc25@gmail.com</a></li>
+     <li id="phonecontact" class="contact-text-item">Phone: <a href="tel:+13475623925">+1 (347) 562-39-25</a></li>
+     <li id="emailcontact" class="contact-text-item"> Email:  <a href="mailto:skyrus.inc25@gmail.com">skyrus.inc25@gmail.com</a></li>
 
      </ul>
       <!-- Social media -->
@@ -155,15 +155,15 @@
 </div>
 <div class="contact-column2">
 <!-- Contact form -->
-     <form id="contact-form" class="contact-form">
-    <input  id="name" class= "form-text" type="text" placeholder="Your name *"  name="name">
-    <input   id="email" class= "form-text" type="email" placeholder="Your email *"  name="email">
-    <textarea class= "form-text" id="message" placeholder="How Can We Assist You? *" name="message"></textarea>
-    <button id="submit" type = "submit" class="call-btn" >Book a service</button>
+   <form action="https://formspree.io/f/xldggjrb"   method="POST" id="contact-form" class="contact-form">
+<input  id="name" class= "form-text" type="text" placeholder="Your name *"  name="name">
+  <input type="email" name="email"  id="email" class= "form-text"  placeholder="Your email *"  >
+<textarea name="message"class= "form-text" id="message" placeholder="How Can We Assist You? *"></textarea>
 
-   <!-- <input type="submit" id="submit" value="Book a service">-->
-     </form>
 
+  <button  type="submit"class="call-btn" >Book a service</button>
+
+     </form>    
      <div id="notification" class="hidden">Your reguest has been received. Our team will connect you ASAP.</div>
 
 
@@ -198,6 +198,6 @@
 </div>
 </body>
 <script src="script.js"></script>
-<script src="script_alert_email.js"></script>
+<script src="script1email.js"></script>
 <script src="en-rus-script.js"></script>
 </html>
