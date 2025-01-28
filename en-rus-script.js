@@ -41,11 +41,11 @@ document.addEventListener("DOMContentLoaded", function() {
             "submit": "Book a service",
             "reviewlink": "Reviews",
             "notification": "Your request has been received.<br> Our team will connect you ASAP.",
-            "notification-error": "Error: Please check the following: Name , Email , Message field cannot be empty",
-            "reviewtext":"Gold Hands by Sky Rus Inc. has completely elevated my expectations of service! The meticulous approach and unwavering dedication to quality made a significant difference in my experience.",
+            "notification-error": "Error: Please check the following: Name, Email, and Message fields cannot be empty.",
+            "reviewtext":"Golden Hands by Sky Rus Inc. has completely elevated my expectations of service! The meticulous approach and unwavering dedication to quality made a significant difference in my experience.",
             "reviewsectiontitle":"WHAT OUR CUSTOMERS SAY ABOUT US",
             "footertext": "Need a website? Check out our portfolio here: https://devzonestudio.com",
-            "copirighttext": "2025 DevZone Studio. All rights reserved."
+            "copyrighttext": "2025 DevZone Studio. All rights reserved."
         },
         "ru": {
             "enlink":"АНГ",
@@ -86,11 +86,11 @@ document.addEventListener("DOMContentLoaded", function() {
             "message": "Как мы можем вам помочь? *",
             "submit": "Забронировать услугу",
             "notification": "Ваш запрос принят. Наша команда свяжется с вами как можно скорее.",
-            "notification-error": "Пожалуйста, проверьте следующее: Поле имени и  Поле сообщения не могут быть пустыми . Адрес электронной почты должен быть действительным.",
+            "notification-error": "Ошибка: Пожалуйста, проверьте следующее: Поля имени, сообщения не могут быть пустыми. Адрес электронной почты должен быть действительным. ",
             "reviewlink": "Отзывы",
             "footertext": "Нужен сайт? Ознакомьтесь с нашим портфолио здесь: https://devzonestudio.com",
-            "copyrightext": "2025 DevZone Studio. Все права защишены.",
-            "reviewtext":"Gold Hands от Sky Rus Inc. полностью превзошли мои ожидания от сервиса! Тщательный подход и неизменная приверженность качеству сделали мой опыт значительно лучше.",
+            "copyrighttext": "2025 DevZone Studio. Все права защишены.",
+            "reviewtext":"Golden Hands от Sky Rus Inc. полностью превзошли мои ожидания от сервиса! Тщательный подход и неизменная приверженность качеству сделали мой опыт значительно лучше.",
             "reviewsectiontitle":"ЧТО НАШИ КЛИЕНТЫ ГОВОРЯТ О НАС",
         }
     };
