@@ -531,6 +531,8 @@ body{
 }
 .menu-group li {
     margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right:20px;
     padding: 0;
     padding-inline-start: 0;
 }
