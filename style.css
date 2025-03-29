@@ -505,7 +505,7 @@ body{
 }
 .menu-toggle {
     display: block;
-    padding: 0 0 0 20px;
+    padding: 0 20px 0 20px;
     cursor: pointer;
     color: #293245;
     font-weight: bold;
